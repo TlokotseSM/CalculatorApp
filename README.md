@@ -1,4 +1,5 @@
-Calculator App
+Calculator Application
+
 A calculator application is a software program that performs arithmetic operations such as addition, subtraction, multiplication, and division. It typically features a user interface with buttons for numbers and basic mathematical operations, allowing users to input values and obtain results.
 
 Key Features:
